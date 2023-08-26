@@ -1,3 +1,4 @@
+
 ###  <h1>Hi there👋</h1> 
 <p>Learning Languages</p>
 <div>
@@ -5,9 +6,13 @@
   <img src="https://img.shields.io/badge/C-007396?style=flat-square&logo=C&logoColor=white"> 
   <img src="https://img.shields.io/badge/HTML-007396?style=flat-square&logo=HTML&logoColor=white"> 
   <img src="https://img.shields.io/badge/CSS-007396?style=flat-square&logo=CSS&logoColor=white"> 
+  
 </div>
 
 <br>
+<!-- 사용 언어 비율 -->
+
+[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=juyeon-Bae)](https://github.com/anuraghazra/github-readme-stats)
 
  <!-- Github states -->
 ![Juyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeon-Bae&hide=contribs&count_private=true&show_icons=true)
