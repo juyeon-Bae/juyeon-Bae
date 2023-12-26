@@ -1,11 +1,12 @@
 
-###  <h1>Hi there👋</h1> 
-<h3> 👉 Learning Languages</h3>
+###  <h1>Hi I'm Juyeon Bae👋</h1> 
+<h3>Learning Languages</h3>
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   
 </div>
 
