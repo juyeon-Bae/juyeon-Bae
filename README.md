@@ -31,6 +31,8 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=FFFFFF"/> 
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=FFFFFF"/> 
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
+
 <br><br>
  
 <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=juyeon-Bae&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeon-Bae&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"/> </div> 
