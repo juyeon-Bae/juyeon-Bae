@@ -1,5 +1,5 @@
  
-**👋 I'm Junior Frontend developer, Juyeon Bae.**
+**👋 I'm Frontend developer, Juyeon Bae.**
 
 💻 I'm currently using `Javascript`, `React`, `Typescript`, ect..
 
